@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="back_button">kembali</string>
+    <string name="confirm">konfirmasi</string>
+    <string name="next">lanjut</string>
+    <string name="CahyaDamarJati">CahyaDamarJati</string>
+    <string name="HarisSetiawan">HarisSetiawan</string>
+    <string name="ApriliaKurniawati">ApriliaKurniawati</string>
+    <string name="namaMhs">Nama mahasiswa</string>
+    <string name="nim">Nim mahasiswa</string>
+    <string name="alamat">Alamat</string>
+    <string name="konsentrasi">konsesntrasi</string>
+    <string name="skripsi">judul skripsi</string>
+    <string name="Dosen1">Dosen pembimbing 1</string>
+    <string name="Dosen2">Dosen Pembimbing 2</string>
+
+
+</resources>
